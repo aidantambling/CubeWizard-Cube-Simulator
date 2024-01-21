@@ -1,4 +1,4 @@
-# Rubik's Revolution: The 3D Cube Simulator
+# CubeWizard: The 3D Cube Simulator
 
 ## Overview
 Rubik's Revolution is an advanced 3D Rubik's Cube simulator that provides an interactive and comprehensive platform for both Rubik's Cube enthusiasts and algorithm developers. It combines manual manipulation of the cube with automated solving algorithms, making it a versatile tool for exploring and solving Rubik's Cubes.
